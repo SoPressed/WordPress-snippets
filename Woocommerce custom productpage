@@ -1,0 +1,12 @@
+/** 
+ * single product page layout *
+ * 23% (image) + 4% (spacing) + 73% (summary) = 100% *
+**/
+/* modify product image width */
+.woocommerce div.product div.images, .woocommerce #content div.product div.images, .woocommerce-page div.product div.images, .woocommerce-page #content div.product div.images {
+    width: 23%;
+}
+/* modify product summary width */
+.woocommerce div.product div.summary, .woocommerce #content div.product div.summary, .woocommerce-page div.product div.summary, .woocommerce-page #content div.product div.summary {
+    width: 73%;
+}
