@@ -1,3 +1,6 @@
 .archive .et_pb_post, .search .et_pb_post { float: left; width: 100%; }
 .archive .et_pb_post h2, .search .et_pb_post h2 { margin-top: 0; }
 .archive .et_pb_post img, .search .et_pb_post img { float: left!important; width: 40%!important; padding-right: 28px!important; }
+.search-results #sidebar, #main-content .container:before { display: none !important; }
+.search-results #left-area { margin-right: 0 !important; width: 100% !important; }
+
