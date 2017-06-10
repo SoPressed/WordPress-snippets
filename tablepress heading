@@ -1,0 +1,6 @@
+.tablepress tfoot th, .tablepress thead th {
+color: #ffffff;
+font: lato;
+   background-color: #13a854;
+    font-weight: 500;
+}
